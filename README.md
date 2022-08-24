@@ -1,3 +1,5 @@
+PROJETO DO CURSO 'CSS: dispondo elementos com Flexbox e Grid' DA ALURA
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
